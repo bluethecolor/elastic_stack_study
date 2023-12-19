@@ -1,4 +1,4 @@
-![elastic](elastic.png)
+![elastic]([elastic.png](https://drive.google.com/file/d/1bgGT4NkadMOdBSw3nvvirDuLB3j1O9Ae/view?usp=sharing))
 
 
 Elasticsearch와 Kibana를 사용하여 할 수 있는 것들은 매우 다양하며, 이 도구들은 데이터 검색, 분석, 시각화 등 여러 분야에서 강력한 기능을 제공합니다.
