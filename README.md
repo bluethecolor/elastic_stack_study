@@ -1,3 +1,6 @@
+![elastic](elastic.png)
+
+
 Elasticsearch와 Kibana를 사용하여 할 수 있는 것들은 매우 다양하며, 이 도구들은 데이터 검색, 분석, 시각화 등 여러 분야에서 강력한 기능을 제공합니다.
 
 다음은 Elasticsearch와 Kibana를 이용하여 수행할 수 있는 주요 작업들입니다:
